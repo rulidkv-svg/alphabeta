@@ -1,0 +1,8 @@
+{
+  "name": "Alpha Beta Learning Center",
+  "description": "Platform Pendidikan, Kursus Online & Pelatihan Keterampilan Profesional Alpha Beta Learning Center. Belajar • Berlatih • Bersertifikat • Siap Kerja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
